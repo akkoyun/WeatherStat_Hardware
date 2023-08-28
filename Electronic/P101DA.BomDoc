@@ -1,0 +1,15 @@
+|RECORD=BOM|VERSÝON=2|FÝLENAME=C:\Users\akkoyun\Documents\P101DA\P101DA.$$$|KÝND=ALTIUM_DESIGNER_LIVEBOM|DATE=09.09.2022|TÝME=15:18:13|CURRENCY=USD|PRODUCTÝONQUANTÝTY=1|PERUNÝTTARGETPRÝCE=0|PERUNÝTACTUALPRÝCE=0
+|RECORD=GeneralOptions|OPENEXPORTED=False|ADDTOPROJECT=False|FORCEFÝT=False|NOTFÝTTED=False|TEMPLATEFÝLENAME=|BATCHMODE=0|SUPPLÝERPRODQTY=0|SUPPLÝERAUTOQTY=False|SUPPLÝERUSECACHEDPRÝCÝNG=False|SUPPLÝERCURRENCY=|SOLUTÝONSPERITEM=1|SUPPLÝERSPERSOLUTÝON=1|DÝSPLAYTOTALROW=False|DÝSPLAYSUBTOTALSFORGROUPS=False|INCLUDEPCBPARAMETERS=False|INCLUDEDBPARAMETERS=False|INCLUDEVAULTPARAMETERS=False|INCLUDECLOUDPARAMETERS=False|INCLUDEDOCUMENTPARAMETERS=False|FÝLTEROUTRÝSKYSOLUTÝONS=False|DESÝGNATORGROUPÝNG=No
+|RECORD=SortOrderOptions|SORTORDER=
+|RECORD=GroupOrderOptions|GROUPORDER=
+|RECORD=VisibleOrderOptions|VÝSÝBLEORDER=Line #=54!Comment=52!Description=82!Designator=80!ModuleAssembly=110!Quantity=67!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122
+|RECORD=VisibleOrderOptions2|BASEVÝEW=Line #=54!Comment=52!Description=82!Designator=80!ModuleAssembly=110!Quantity=67!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122|FLATVÝEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!ModuleAssembly=-1!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122|CONSOLÝDATEDVÝEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!ModuleAssembly=-1!Quantity=-1!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122
+|RECORD=CustomColumns|CUSTOMCOLUMNS=
+|RECORD=ColumnsAliases|COLUMNSALÝASES=
+|RECORD=FilterOptions|FÝLTER=
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Description=0,Value=0,Footprint=1
+|RECORD=ManufacturerLinkOptions|MANUFACTURERLÝNKPARAMETERS=
+|RECORD=FavoriteSuppliers|SUPPLÝERS=|USESUPPLÝERORDER=False
+|RECORD=CheckOptions|CHECKLEVELS=
+|RECORD=LineNumberingOptions|STARTVALUE=|INCREMENT=
+|RECORD=Catalog|DBLÝNKFÝLEPATH=
