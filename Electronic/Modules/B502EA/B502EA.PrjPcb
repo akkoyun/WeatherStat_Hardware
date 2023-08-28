@@ -25,13 +25,15 @@ NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=1
 AutoCrossReferences=0
+NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for B502EA
+IsVirtualBomDocumentRemoved=0
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -81,23 +83,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=Output\Output Job.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
 DocumentPath=P502EA.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -114,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HSOVLKDU
 
-[Document5]
+[Document4]
 DocumentPath=P502EA.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -129,142 +114,487 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+DocumentUniqueId=LIYPUUOK
+
+[Document5]
+DocumentPath=Output Job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for B502EA\Generate Files\ERC\B502EA.html
+DocumentPath=Output\BOM\Bill of Materials-B502EA.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=..\..\Output\Output\Output Files\Schematic Prints\B502EA.PDF
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for B502EA\Design Rule Check - P502EA.html
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for B502EA\Generate Files\NC Drill\P502EA.DRR
+DocumentPath=Project Outputs for B502EA\Design Rule Check - P502EA.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.EXTREP
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\board_shape\features
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.G1
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\bottom_3d_body\features
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.G2
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\bottom_assembly\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GBL
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\bottom_copper_plating\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GBO
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\bottom_courtyard\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GBP
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GBS
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GD1
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GG1
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GKO
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GM1
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GM2
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\dielectric_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GM3
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\dielectric_5\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GM4
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\drill_drawing_top-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GM5
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\drill_guide_top-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GM6
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GPB
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\drill_plated_bottom-top\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GPT
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\int1\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GTL
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\int2\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GTO
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GTP
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\mechanical_8\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.GTS
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\top_3d_body\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for B502EA\Generate Files\DRC\P502EA.html
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\top_assembly\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for B502EA\Generate Files\NC Drill\P502EA.LDP
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\top_copper_plating\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for B502EA\Generate Files\PCB 3D Print\P502EA.png
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\top_courtyard\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.REP
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for B502EA\Generate Files\Gerber\P502EA.RUL
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for B502EA\Generate Files\ExportSTEP\P502EA.step
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for B502EA\Generate Files\NC Drill\P502EA.TXT
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for B502EA\Generate Files\Pick Place\Pick Place for P502EA.txt
+DocumentPath=Output\Gerber Output\B502EA\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.G1
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.G2
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Output\PCB 3D Print\P502EA.jpg
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.REP
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Output\3D Body\P502EA.step
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Output\Gerber Output\B502EA\P502EA.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Board_Shape.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Bottom_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Bottom_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Bottom_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Drawing_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Drawing_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Drawing_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Drawing_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Drawing_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Drillmap_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Drillmap_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Drillmap_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Drillmap_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Drillmap_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Mechanical_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Mechanical_9.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Mechanical_16.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Mechanical_40.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Plated_Drill_2_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Plated_Drill_2_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Plated_Drill_4_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Top_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Top_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_Top_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_uVias_Drill_1_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Output\Gerber Output\B502EA\P502EA_uVias_Drill_4_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Output\Pick & Place Output\B502EA\Pick Place for P502EA.csv
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Output\Pick & Place Output\B502EA\Pick Place for P502EA.txt
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Output\Gerber Output\B502EA\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [Parameter1]
@@ -334,7 +664,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for B502EA
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -441,12 +771,42 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=SIMetrixNetlist
+OutputName21=SIMetrix
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SIMPLISNetlist
+OutputName22=SIMPLIS
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=XSpiceNetlist
+OutputName23=Mixed Sim Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -456,7 +816,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType2=PCB 3D Print
@@ -474,7 +834,7 @@ PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType4=PCB Print
 OutputName4=PCB Prints
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType5=PCBDrawing
@@ -486,7 +846,7 @@ PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType6=PCBLIB Print
 OutputName6=PCBLIB Prints
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType7=PDF3D
@@ -519,6 +879,18 @@ OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Harness Layout Drawing Print
+OutputName12=Harness Layout Drawing Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Harness Wiring Diagram Print
+OutputName13=Harness Wiring Diagram Prints
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -556,13 +928,13 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType2=CompositeDrill
 OutputName2=Composite Drill Drawing
 OutputDocumentPath2=
-OutputVariantName2=
+OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType3=Drill
 OutputName3=Drill Drawing/Guides
 OutputDocumentPath3=
-OutputVariantName3=
+OutputVariantName3=[No Variations]
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType4=Final
@@ -579,17 +951,17 @@ OutputDefault5=0
 OutputType6=Gerber X2
 OutputName6=Gerber X2 Files
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
 OutputType7=IPC2581
 OutputName7=IPC-2581 Files
 OutputDocumentPath7=
-OutputVariantName7=
+OutputVariantName7=[No Variations]
 OutputDefault7=0
 OutputType8=Mask
 OutputName8=Solder/Paste Mask Prints
 OutputDocumentPath8=
-OutputVariantName8=
+OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType9=NC Drill
@@ -605,7 +977,7 @@ OutputDefault10=0
 OutputType11=Plane
 OutputName11=Power-Plane Prints
 OutputDocumentPath11=
-OutputVariantName11=
+OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType12=Test Points
@@ -662,6 +1034,12 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
+OutputType9=Project History
+OutputName9=Project History
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -875,6 +1253,11 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Web ReviewOutputName
+OutputName12=Web Review Data
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1007,6 +1390,7 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
+Type120=1
 
 [Difference Levels]
 Type1=1
@@ -1198,12 +1582,13 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
-MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
 Type124=1
 Type125=1
+Type126=1
+Type127=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

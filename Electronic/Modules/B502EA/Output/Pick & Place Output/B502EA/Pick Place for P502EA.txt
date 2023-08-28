@@ -1,0 +1,16 @@
+Altium Designer Pick and Place Locations
+C:\Users\akkoyun\Documents\Github\WeatherStat-V4-Hardware\P101EA\Modules\B502EA\Output\Pick & Place Output\B502EA\Pick Place for P502EA.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       05.06.23
+Time:       13:12
+Revision:   068febe07a95f9b71eb676566017213840b5afe3
+Variant:    No variations
+Units used: mil
+
+Designator Comment                              Layer    Footprint          Center-X(mil) Center-Y(mil) Rotation Description                              
+U1         HDC2010YPAR                          TopLayer HDC2010            0.000         0.000         0        "GEN 2 HUMIDITY SENSOR"                  
+J1         "4P SMD Tunic Connector"             TopLayer Connector_Tunic_4P 0.000         2537.401      180      "Mini Tunic Connector with 4P"           
+C1         "Capacitor - 100nF [0402] (Ceramic)" TopLayer CAPACITOR_0402     0.000         98.425        180      "Capacitor - 100nF [0402-6V3] (Ceramic)" 

@@ -1,0 +1,67 @@
+Altium Designer Pick and Place Locations
+C:\Users\akkoyun\Documents\Github\WeatherStat-V4-Hardware\P101EA\Modules\B153BA\Output\Pick & Place Output\B153AA\Pick Place for B153BA.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       05.06.23
+Time:       12:52
+Revision:   e5e7f3366998b31187ba4442449081d3457182d5
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U4","LDO Regulator","TopLayer","TO-252","367.421","1220.472","90","LDO Voltage Regulators 800MA LDO LINEAR REG"
+"U3","Power Switch","TopLayer","SOT-23-6","629.921","1220.472","90","Power Switch MosFet"
+"R16","4K7 - 0402 - %1 - 1/16W","BottomLayer","RESISTOR_0402","570.866","1330.709","270","Thick Film Resistors - SMD 1/16 W 4.7 KOhm 1%"
+"R15","47K - 0402 - %1 - 1/16W","TopLayer","RESISTOR_0402","503.937","590.551","90","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R14","120R - 2512 - %5 - 1W","BottomLayer","RESISTOR_2512","393.701","1299.213","180","Thick Film Resistors - SMD 1 W 120 Ohm 5%"
+"R13","0R - 0402 - %1 - 1/16W","BottomLayer","RESISTOR_0402","303.527","1397.638","180","Thick Film Resistors - SMD 1/16 W 0 Ohm"
+"R12","4K7 - 0402 - %1 - 1/16W","BottomLayer","RESISTOR_0402","216.535","1330.709","90","Thick Film Resistors - SMD 1/16 W 4.7 KOhm 1%"
+"C18","Capacitor - 33pF [0402] (Ceramic)","TopLayer","CAPACITOR_0402","667.323","1102.362","90","Capacitor - 33pF [0402] (Ceramic)"
+"C17","Capacitor - 100nF [0402] (Ceramic)","TopLayer","CAPACITOR_0402","275.591","1377.953","180","Capacitor - 100nF [0402-6V3] (Ceramic)"
+"C16","Capacitor - 22uF [1210] (Ceramic)","TopLayer","CAPACITOR_0603","177.165","1377.953","0","Multilayer Ceramic Capacitors MLCC - SMD/SMT 22UF 25V 10% 1210"
+"C15","Capacitor - 100nF [0402] (Ceramic)","TopLayer","CAPACITOR_0402","592.520","1338.583","270","Capacitor - 100nF [0402-6V3] (Ceramic)"
+"C14","Capacitor - 100nF [0402] (Ceramic)","TopLayer","CAPACITOR_0402","592.520","1102.362","90","Capacitor - 100nF [0402-6V3] (Ceramic)"
+"C8","Capacitor - 100nF [0402] (Ceramic)","BottomLayer","CAPACITOR_0402","468.701","1190.945","270","Capacitor - 100nF [0402-6V3] (Ceramic)"
+"U2","RS485 Modulator","BottomLayer","SOP-8L_(AZRS3080E)","393.701","1023.622","90","RS-422/RS-485 Interface IC Low-Power, Slew-Rate-Limited RS-485/RS-422 Transceivers"
+"U1","8-bit MicroController","TopLayer","TQFN-32","393.701","826.772","180","8-bit Microcontrollers - MCU 32KB In-system Flash 20MHz 1.8V-5.5V"
+"R22","47K - 0402 - %1 - 1/16W","TopLayer","RESISTOR_0402","629.921","1102.362","90","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R21","330R - 0402 - %1 - 1/16W","TopLayer","RESISTOR_0402","629.921","1338.583","90","Thick Film Resistors - SMD 1/16 W 330 Ohm 1%"
+"R9","47K - 0402 - %1 - 1/16W","BottomLayer","RESISTOR_0402","196.850","708.661","180","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R8","47K - 0402 - %1 - 1/16W","BottomLayer","RESISTOR_0402","393.701","708.661","180","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R7","47K - 0402 - %1 - 1/16W","BottomLayer","RESISTOR_0402","590.551","708.661","180","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R6","4K7 - 0402 - %1 - 1/16W","BottomLayer","RESISTOR_0402","196.850","787.402","0","Thick Film Resistors - SMD 1/16 W 4.7 KOhm 1%"
+"R5","4K7 - 0402 - %1 - 1/16W","BottomLayer","RESISTOR_0402","393.701","787.402","0","Thick Film Resistors - SMD 1/16 W 4.7 KOhm 1%"
+"R4","4K7 - 0402 - %1 - 1/16W","BottomLayer","RESISTOR_0402","590.551","787.402","0","Thick Film Resistors - SMD 1/16 W 4.7 KOhm 1%"
+"R3","330R - 0402 - %1 - 1/16W","BottomLayer","RESISTOR_0402","196.850","590.551","180","Thick Film Resistors - SMD 1/16 W 330 Ohm 1%"
+"R2","330R - 0402 - %1 - 1/16W","BottomLayer","RESISTOR_0402","393.701","590.551","180","Thick Film Resistors - SMD 1/16 W 330 Ohm 1%"
+"R1","330R - 0402 - %1 - 1/16W","BottomLayer","RESISTOR_0402","590.551","590.551","180","Thick Film Resistors - SMD 1/16 W 330 Ohm 1%"
+"R11","47K - 0402 - %1 - 1/16W","TopLayer","RESISTOR_0402","440.945","590.551","270","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R20","10K - 0402 - %1 - 1/16W","BottomLayer","RESISTOR_0402","627.756","354.331","90","Thick Film Resistors - SMD 1/16 W 10 KOhm 1%"
+"R19","10K - 0402 - %1 - 1/16W","TopLayer","RESISTOR_0402","627.756","354.331","90","Thick Film Resistors - SMD 1/16 W 10 KOhm 1%"
+"R18","10K - 0402 - %1 - 1/16W","BottomLayer","RESISTOR_0402","208.858","354.331","90","Thick Film Resistors - SMD 1/16 W 10 KOhm 1%"
+"R17","10K - 0402 - %1 - 1/16W","TopLayer","RESISTOR_0402","208.858","354.331","90","Thick Film Resistors - SMD 1/16 W 10 KOhm 1%"
+"R10","10K - 0402 - %1 - 1/16W","TopLayer","RESISTOR_0402","409.449","590.551","270","Thick Film Resistors - SMD 1/16 W 10 KOhm 1%"
+"Q3","BC847AQAZ","BottomLayer","SOT1215","196.850","649.606","180","Bipolar NPN Transistors"
+"Q2","BC847AQAZ","BottomLayer","SOT1215","393.701","649.606","180","Bipolar NPN Transistors"
+"Q1","BC847AQAZ","BottomLayer","SOT1215","590.551","649.606","180","Bipolar NPN Transistors"
+"J6","2P SMD Tunic Connector","BottomLayer","Connector_Tunic_2P","603.150","218.504","180","Mini Tunic Connector with 2P"
+"J5","2P SMD Tunic Connector","TopLayer","Connector_Tunic_2P","603.150","218.504","0","Mini Tunic Connector with 2P"
+"J4","2P SMD Tunic Connector","BottomLayer","Connector_Tunic_2P","184.252","218.504","180","Mini Tunic Connector with 2P"
+"J3","2P SMD Tunic Connector","TopLayer","Connector_Tunic_2P","184.252","218.504","0","Mini Tunic Connector with 2P"
+"J2","6P Tunic Connector","BottomLayer","Connector_Tunic_6P","394.276","1513.779","0","Mini Tunic Connector with 6P"
+"J1","6P Tunic Connector","TopLayer","Connector_Tunic_6P","393.126","1513.779","180","Mini Tunic Connector with 6P"
+"D1","150066M153000","BottomLayer","Wurth_0606","393.701","472.441","180","LED RGB DIFFUSED SMD"
+"C3","Capacitor - 33pF [0402] (Ceramic)","BottomLayer","CAPACITOR_0402","196.850","748.031","180","Capacitor - 33pF [0402] (Ceramic)"
+"C2","Capacitor - 33pF [0402] (Ceramic)","BottomLayer","CAPACITOR_0402","393.701","748.031","180","Capacitor - 33pF [0402] (Ceramic)"
+"C1","Capacitor - 33pF [0402] (Ceramic)","BottomLayer","CAPACITOR_0402","590.551","748.031","180","Capacitor - 33pF [0402] (Ceramic)"
+"C9","Capacitor - 33pF [0402] (Ceramic)","TopLayer","CAPACITOR_0402","472.441","590.551","90","Capacitor - 33pF [0402] (Ceramic)"
+"C13","Capacitor - 1nF [0402] (Ceramic)","BottomLayer","CAPACITOR_0402","578.543","354.331","270","Capacitor - 1nF [0402] (Ceramic)"
+"C12","Capacitor - 1nF [0402] (Ceramic)","TopLayer","CAPACITOR_0402","578.543","354.331","270","Capacitor - 1nF [0402] (Ceramic)"
+"C11","Capacitor - 1nF [0402] (Ceramic)","BottomLayer","CAPACITOR_0402","159.646","354.331","270","Capacitor - 1nF [0402] (Ceramic)"
+"C10","Capacitor - 1nF [0402] (Ceramic)","TopLayer","CAPACITOR_0402","159.646","354.331","270","Capacitor - 1nF [0402] (Ceramic)"
+"C7","Capacitor - 100nF [0402] (Ceramic)","TopLayer","CAPACITOR_0402","377.953","590.551","90","Capacitor - 100nF [0402-6V3] (Ceramic)"
+"C6","Capacitor - 100nF [0402] (Ceramic)","TopLayer","CAPACITOR_0402","157.480","842.520","0","Capacitor - 100nF [0402-6V3] (Ceramic)"
+"C5","Capacitor - 100nF [0402] (Ceramic)","TopLayer","CAPACITOR_0402","629.921","811.024","180","Capacitor - 100nF [0402-6V3] (Ceramic)"
+"C4","Capacitor - 100nF [0402] (Ceramic)","TopLayer","CAPACITOR_0402","629.921","874.016","180","Capacitor - 100nF [0402-6V3] (Ceramic)"

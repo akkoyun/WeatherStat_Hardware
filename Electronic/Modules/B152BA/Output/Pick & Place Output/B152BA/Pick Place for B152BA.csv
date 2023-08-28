@@ -1,0 +1,65 @@
+Altium Designer Pick and Place Locations
+C:\Users\akkoyun\Documents\Github\WeatherStat-V4-Hardware\P101EA\Modules\B152BA\Output\Pick & Place Output\B152BA\Pick Place for B152BA.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       05.06.23
+Time:       13:04
+Revision:   068febe07a95f9b71eb676566017213840b5afe3
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U4","LDO Regulator","TopLayer","TO-252","131.201","-78.740","90","LDO Voltage Regulators 800MA LDO LINEAR REG"
+"U2","RS485 Modulator","TopLayer","SOP-8L_(AZRS3080E)","472.441","-78.740","90","RS-422/RS-485 Interface IC Low-Power, Slew-Rate-Limited RS-485/RS-422 Transceivers"
+"U1","","TopLayer","TQFN-32","-472.441","-78.740","90","8-bit Microcontrollers - MCU 32KB In-system Flash 20MHz 1.8V-5.5V"
+"SW1","","TopLayer","PTS526_Switch","-472.441","314.961","0","Switch Tactile N.O. SPST Flush Round Button Gull Wing 0.05A 12VDC 200000Cycles 2.45N SMD T/R"
+"R26","","TopLayer","RESISTOR_0402","1606.299","-236.220","90","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R25","","TopLayer","RESISTOR_0402","-984.252","-118.110","0","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R24","","TopLayer","RESISTOR_0402","-905.512","39.370","180","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R23","","TopLayer","RESISTOR_0402","-1685.039","-236.220","90","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R20","","TopLayer","RESISTOR_0402","-118.110","236.220","180","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R19","","TopLayer","RESISTOR_0402","0.000","236.220","180","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R18","","TopLayer","RESISTOR_0402","118.110","236.220","180","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R17","","TopLayer","RESISTOR_0402","-118.110","196.850","0","Thick Film Resistors - SMD 1/16 W 4.7 KOhm 1%"
+"R16","","TopLayer","RESISTOR_0402","0.000","196.850","0","Thick Film Resistors - SMD 1/16 W 4.7 KOhm 1%"
+"R15","","TopLayer","RESISTOR_0402","118.110","196.850","0","Thick Film Resistors - SMD 1/16 W 4.7 KOhm 1%"
+"R14","","TopLayer","RESISTOR_0402","-118.110","393.701","0","Thick Film Resistors - SMD 1/16 W 330 Ohm 1%"
+"R13","","TopLayer","RESISTOR_0402","0.000","393.701","0","Thick Film Resistors - SMD 1/16 W 330 Ohm 1%"
+"R12","","TopLayer","RESISTOR_0402","118.110","393.701","0","Thick Film Resistors - SMD 1/16 W 330 Ohm 1%"
+"R11","0R - 0402 - %1 - 1/16W","TopLayer","RESISTOR_0402","545.685","452.756","270","Thick Film Resistors - SMD 1/16 W 0 Ohm"
+"R10","4K7 - 0402 - %1 - 1/16W","TopLayer","RESISTOR_0402","295.276","285.433","270","Thick Film Resistors - SMD 1/16 W 4.7 KOhm 1%"
+"R9","47K - 0402 - %1 - 1/16W","TopLayer","RESISTOR_0402","497.441","-275.591","90","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R8","120R - 2512 - %5 - 1W","TopLayer","RESISTOR_2512","472.441","314.961","0","Thick Film Resistors - SMD 1 W 120 Ohm 5%"
+"R7","4K7 - 0402 - %1 - 1/16W","TopLayer","RESISTOR_0402","649.606","285.433","90","Thick Film Resistors - SMD 1/16 W 4.7 KOhm 1%"
+"R6","47K - 0402 - %1 - 1/16W","TopLayer","RESISTOR_0402","397.441","-275.591","270","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R5","","TopLayer","RESISTOR_0402","-905.512","0.000","180","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R4","","TopLayer","RESISTOR_0402","-984.252","-78.740","180","Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"
+"R3","","TopLayer","RESISTOR_0402","-905.512","-118.110","180","Thick Film Resistors - SMD 1/16 W 4.7 KOhm 1%"
+"R2","","TopLayer","RESISTOR_0402","-984.252","39.370","0","Thick Film Resistors - SMD 1/16 W 4.7 KOhm 1%"
+"R1","","TopLayer","RESISTOR_0402","-708.661","-77.559","90","Thick Film Resistors - SMD 1/16 W 10 KOhm 1%"
+"Q5","","TopLayer","SOT1215","-905.512","-59.055","0","Bipolar NPN Transistors"
+"Q4","","TopLayer","SOT1215","-984.252","-19.685","180","Bipolar NPN Transistors"
+"Q3","","TopLayer","SOT1215","-118.110","334.646","180","Bipolar NPN Transistors"
+"Q2","","TopLayer","SOT1215","0.000","334.646","180","Bipolar NPN Transistors"
+"Q1","","TopLayer","SOT1215","118.110","334.646","180","Bipolar NPN Transistors"
+"C17","Capacitor - 100nF [0402] (Ceramic)","TopLayer","CAPACITOR_0402","-157.480","3.346","270","Capacitor - 100nF [0402-6V3] (Ceramic)"
+"C16","Capacitor - 22uF [1210] (Ceramic)","TopLayer","CAPACITOR_0603","-157.480","-143.701","90","Multilayer Ceramic Capacitors MLCC - SMD/SMT 22UF 25V 10% 1210"
+"C15","Capacitor - 100nF [0402] (Ceramic)","TopLayer","CAPACITOR_0402","594.898","452.756","90","Capacitor - 100nF [0402-6V3] (Ceramic)"
+"C12","","TopLayer","CAPACITOR_0402","-118.110","275.591","180","Capacitor - 33pF [0402] (Ceramic)"
+"C11","","TopLayer","CAPACITOR_0402","0.000","275.591","180","Capacitor - 33pF [0402] (Ceramic)"
+"C10","","TopLayer","CAPACITOR_0402","118.110","275.591","180","Capacitor - 33pF [0402] (Ceramic)"
+"C8","Capacitor - 33pF [0402] (Ceramic)","TopLayer","CAPACITOR_0402","447.441","-275.591","90","Capacitor - 33pF [0402] (Ceramic)"
+"C7","","TopLayer","CAPACITOR_0402","1685.039","-236.220","90","Capacitor - 33pF [0402] (Ceramic)"
+"C6","","TopLayer","CAPACITOR_0402","-1606.299","-236.220","90","Capacitor - 33pF [0402] (Ceramic)"
+"C5","Capacitor - 100nF [0402] (Ceramic)","TopLayer","CAPACITOR_0402","397.441","118.110","270","Capacitor - 100nF [0402-6V3] (Ceramic)"
+"C4","","TopLayer","CAPACITOR_0402","-708.661","-142.913","90","Capacitor - 100nF [0402-6V3] (Ceramic)"
+"C3","","TopLayer","CAPACITOR_0402","-505.118","-314.961","0","Capacitor - 100nF [0402-6V3] (Ceramic)"
+"C2","","TopLayer","CAPACITOR_0402","-408.268","-314.961","180","Capacitor - 100nF [0402-6V3] (Ceramic)"
+"C1","","TopLayer","CAPACITOR_0402","-473.622","157.480","0","Capacitor - 100nF [0402-6V3] (Ceramic)"
+"SW3","","TopLayer","REED_Relay","1645.669","198.819","90","Reed relay - SMD 11.7 mm"
+"SW2","","TopLayer","REED_Relay","-1645.669","198.819","90","Reed relay - SMD 11.7 mm"
+"J2","6P Tunic Connector","TopLayer","Connector_Tunic_6P","471.866","647.638","180","Mini Tunic Connector with 6P"
+"J1","","TopLayer","Connector_Tunic_6P","-473.016","647.638","180","Mini Tunic Connector with 6P"
+"D3","","TopLayer","Wurth_0606","0.000","708.662","180","LED RGB DIFFUSED SMD"

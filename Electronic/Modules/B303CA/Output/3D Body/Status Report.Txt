@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:10:12 On 5.06.2023
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [B303CA.PcbDoc]
+   Generated File[B303CA.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:10:12 On 5.06.2023

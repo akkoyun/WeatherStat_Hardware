@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:05:08 On 5.06.2023
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [B152BA.PcbDoc]
+   Generated File[B152BA.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:05:17 On 5.06.2023

@@ -1,0 +1,19 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 0 0 -0.0393701 0 N J1 2P_SMD_Tunic_Connector ;0=1,1=0.0000
+PRP Height '3.55mm'
+PRP Manufacturer_Name 'Molex'
+PRP Manufacturer_Part_Number '53261-0271'
+PRP Mouser_Part_Number '538-53261-0271'
+PRP RoHS 'Yes'
+PRP System 'Connector'
+TOP 0 0.0246063 0 180 N 2 1 1
+TOP 1 -0.0246063 0 180 N 1 0 2
+TOP 2 0.125 -0.1141732 180 N 0 1 3
+TOP 3 -0.125 -0.1141732 180 N 0 0 4
+#

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [B152BA.PcbDoc]
+   Generated File[B152BA.TXT]
+   Generated File[B152BA.LDP]
+   Generated File[B152BA.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:30:45 On 15.06.2023

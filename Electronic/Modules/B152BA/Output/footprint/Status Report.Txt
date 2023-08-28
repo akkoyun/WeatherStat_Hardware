@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:05:23 On 5.06.2023
+
+Output: Footprint Comparison Report
+Type  : FootprintComparison
+From  : PCB Document [B152BA.PcbDoc]
+   Generated File[B152BA.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:05:24 On 5.06.2023

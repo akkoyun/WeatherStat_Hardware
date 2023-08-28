@@ -1,0 +1,56 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 2 0 0 0 N U1 HDC2010YPAR ;0=1,1=0.0000
+PRP Case 'DSBGA-6'
+PRP Manufacturer_Name 'Texas Instruments'
+PRP Manufacturer_Part_Number 'HDC2010YPAR'
+PRP Maximum_Operating_Temperature '+ 85 C'
+PRP Minimum_Operating_Temperature '- 40 C'
+PRP Product_Type 'T/H Sensor'
+TOP 0 -0.019685 0.019685 270 N 3 5 A1
+TOP 1 0.019685 0.019685 270 N 1 1 A2
+TOP 2 -0.019685 0 270 N 4 10 B1
+TOP 3 0.019685 0 270 N 2 1 B2
+TOP 4 -0.019685 -0.019685 270 N 4 9 C1
+TOP 5 0.019685 -0.019685 270 N 0 0 C2
+#
+# CMP 1
+CMP 1 0 2.519685 180 N J1 4P_SMD_Tunic_Connector ;0=1,1=0.0000
+PRP Case 'SMD'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.mouser.com.tr/datasheet/2/276/0532610471_PCB_HEADERS-170942.pdf'
+PRP ComponentLink2Description 'Mouser'
+PRP ComponentLink2URL 'https://www.mouser.com.tr/ProductDetail/Molex/53261-0471?qs=%2Fha2pyFaduhLhIsk8tywtK7BwWtguBSP4XxyDBTOTfs%3D'
+PRP Manufacturer_Name 'Molex'
+PRP Manufacturer_Part_Number '53261-0471'
+PRP Pitch '1.25mm'
+PRP Position '4'
+PRP ROHS 'Yes'
+PRP System 'Connector'
+TOP 0 0.0738189 2.4803149 180 N 3 4 1
+TOP 1 0.0246063 2.4803149 180 N 2 0 2
+TOP 2 -0.0246063 2.4803149 180 N 1 0 3
+TOP 3 -0.0738189 2.4803149 180 N 4 7 4
+TOP 4 0.1742126 2.5944881 180 N 4 6 5
+TOP 5 -0.1742126 2.5944881 180 N 4 8 6
+#
+# CMP 2
+CMP 0 0 0.0984251 180 N C1 Capacitor_-_100nF_[0402]_(Ceramic) ;0=1,1=0.0000
+PRP Case '0402'
+PRP ComponentLink1Description 'Mouser'
+PRP ComponentLink1URL 'https://www.mouser.com.tr/ProductDetail/AVX/04026D104KAT4A?qs=sGAEpiMZZMs0AnBnWHyRQPg4iYkCw7IMED%2F4kpqgf7w%3D'
+PRP ComponentLink2Description 'DataSheet'
+PRP ComponentLink2URL 'https://www.mouser.com.tr/datasheet/2/40/cx5r-776519.pdf'
+PRP Manufacturer_Name 'AVX'
+PRP Manufacturer_Part_Number '04026D104KAT4A'
+PRP Tolerance '%10'
+PRP Value '100nF'
+PRP Voltage '6V3'
+TOP 0 0.0169291 0.0984251 180 N 4 5 1
+TOP 1 -0.0169291 0.0984251 180 N 3 3 2
+#

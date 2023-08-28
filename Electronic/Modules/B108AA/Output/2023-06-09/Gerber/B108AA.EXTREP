@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: B108AA.GBR   9.06.2023  15:50:34
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.G1                 Int1                                    
+.G2                 Int2                                    
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Board Shape                             
+.GM2                Top Assembly                            
+.GM3                Bottom Assembly                         
+.GM4                Top Courtyard                           
+.GM5                Bottom Courtyard                        
+.GM6                Top 3D Body                             
+.GM7                Bottom 3D Body                          
+.GM8                Dimensions                              
+.GM9                Assembly Notes                          
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.GML                Multi-Layer                             
+.1                  Dielectric 1                            
+.3                  Dielectric 5                            
+.2                  Dielectric 3                            
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------
