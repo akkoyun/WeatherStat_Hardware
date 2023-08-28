@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+C:\Altium Projects\P101CA\Modules\Electronic\[B503CA]\Design Files\Altium\Output\Fabrication\Generates pick and place files\Pick Place for P503CA.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       11.07.20
+Time:       20:55
+Revision:   55a4dd34aed2f4a1f7d2b6b3403b882c9fd0e8d3
+Variant:    No variations
+Units used: mil
+
+Designator Comment       Layer    Footprint             Center-X(mil) Center-Y(mil) Rotation Description                    
+RF?        Connector     TopLayer Connector_IPEX        511.811       108.268       180      "Analog Signal MHF4 Connector" 
+RF1        "Sense Plate" TopLayer Capacitve_Sense_Plate 511.811       108.528       0        "Sense Plate"                  

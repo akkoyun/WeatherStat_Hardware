@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Project [B106AA.PrjPcb]
+   Generated File[Bill of Materials-B106AA.pdf]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 23:31:20 On 11.07.2020

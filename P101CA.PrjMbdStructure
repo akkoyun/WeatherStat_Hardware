@@ -1,0 +1,12 @@
+Record=DiagramHierarchy|SourceDocument=P101CA.MbsDoc|Kind=Multi-board Schematic Module|Designator=B106AA|Source=[B106AA]\Design Files\Altium\B106AA.PrjPcb
+Record=SubProject|SourceDocument=P101CA.MbsDoc|ProjectPath=[B106AA]\Design Files\Altium\B106AA.PrjPcb
+Record=DiagramHierarchy|SourceDocument=P101CA.MbsDoc|Kind=Multi-board Schematic Module|Designator=B303AA|Source=[B303AA]\Design Files\Altium\B303AA.PrjPcb
+Record=SubProject|SourceDocument=P101CA.MbsDoc|ProjectPath=[B303AA]\Design Files\Altium\B303AA.PrjPcb
+Record=DiagramHierarchy|SourceDocument=P101CA.MbsDoc|Kind=Multi-board Schematic Module|Designator=B502DA-ST|Source=[B502DA]\Design Files\Altium\B502DA.PrjPcb
+Record=SubProject|SourceDocument=P101CA.MbsDoc|ProjectPath=[B502DA]\Design Files\Altium\B502DA.PrjPcb
+Record=DiagramHierarchy|SourceDocument=P101CA.MbsDoc|Kind=Multi-board Schematic Module|Designator=B502DA-T/H|Source=[B502DA]\Design Files\Altium\B502DA.PrjPcb
+Record=SubProject|SourceDocument=P101CA.MbsDoc|ProjectPath=[B502DA]\Design Files\Altium\B502DA.PrjPcb
+Record=DiagramHierarchy|SourceDocument=P101CA.MbsDoc|Kind=Multi-board Schematic Module|Designator=B503CA-2|Source=[B503CA]\Design Files\Altium\B503CA.PrjPcb
+Record=SubProject|SourceDocument=P101CA.MbsDoc|ProjectPath=[B503CA]\Design Files\Altium\B503CA.PrjPcb
+Record=DiagramHierarchy|SourceDocument=P101CA.MbsDoc|Kind=Multi-board Schematic Module|Designator=B503CA-1|Source=[B503CA]\Design Files\Altium\B503CA.PrjPcb
+Record=SubProject|SourceDocument=P101CA.MbsDoc|ProjectPath=[B503CA]\Design Files\Altium\B503CA.PrjPcb

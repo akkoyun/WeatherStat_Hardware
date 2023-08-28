@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Project [B503CA.PrjPcb]
+   Generated File[Bill of Materials-B503CA.pdf]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 20:56:10 On 11.07.2020

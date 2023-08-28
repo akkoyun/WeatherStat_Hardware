@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\Altium Projects\P101CA\Modules\Electronic\[B303AA]\Design Files\Altium\Output\Fabrication\Generates pick and place files\Pick Place for B303AA.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       11.07.20
+Time:       21:08
+Revision:   2f45805903c768b05ed4b6fb75899ea55c406bc2
+Variant:    No variations
+Units used: mil
+
+Designator Comment                        Layer       Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                        
+SW1        "Tactile Switches"             BottomLayer PTS526_Switch          196.850       590.551       180      "Tactile Switches 50mA 12VDC, 5.2x5.2mm, 0.8mm H, 260gf, G leads." 
+R2         "Thick Film Resistor"          TopLayer    RESISTOR_0402          275.591       664.370       180      "Thick Film Resistors - SMD 1/16 W 10 Kohms 1%"                    
+R1         "Thick Film Resistor"          TopLayer    RESISTOR_0402          275.591       516.732       180      "Thick Film Resistors - SMD 1/16 W 47 Kohms 1%"                    
+J1         "4P SMD Tunic Connector"       TopLayer    Connector_Tunic_4P_-_H 139.764       590.551       270      "Mini Tunic Connector with 4P"                                     
+D1         "ESD Suppressors"              TopLayer    ESD_0402               275.591       565.945       180      "TVS Diode (Bi-directional)"                                       
+C1         "Multilayer Ceramic Capacitor" TopLayer    CAPACITOR_0402         275.591       615.158       180      "Capacitor - 33pF [0402] (Ceramic)"                                

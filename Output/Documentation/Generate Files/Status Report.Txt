@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : MBAExportSTEP
+From  : Multi-board Assembly Document [P101CA.MbaDoc]
+   Generated File[P101CA.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:19:04 On 8.07.2020

@@ -1,0 +1,14 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\..\..\Ovoo_Library\Ovoo_Library.LibPkg
+[Project2]
+ProjectPath=P101CA.PrjMbd
+[Project3]
+ProjectPath=[B106AA]\Design Files\Altium\B106AA.PrjPcb
+[Project4]
+ProjectPath=[B303AA]\Design Files\Altium\B303AA.PrjPcb
+[Project5]
+ProjectPath=[B502DA]\Design Files\Altium\B502DA.PrjPcb
+[Project6]
+ProjectPath=[B503CA]\Design Files\Altium\B503CA.PrjPcb

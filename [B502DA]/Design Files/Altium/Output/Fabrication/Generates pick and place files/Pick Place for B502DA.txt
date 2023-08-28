@@ -1,0 +1,22 @@
+Altium Designer Pick and Place Locations
+C:\Altium Projects\P101CA\Modules\Electronic\[B502DA]\Design Files\Altium\Output\Fabrication\Generates pick and place files\Pick Place for B502DA.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       11.07.20
+Time:       20:50
+Revision:   cef421849acdde0bef7d6f2c3bf9834156eccfa2
+Variant:    No variations
+Units used: mil
+
+Designator Comment                                   Layer       Footprint          Center-X(mil) Center-Y(mil) Rotation Description                               
+U1         "Humidity and temperature digital sensor" TopLayer    HDC2010            511.811       295.276       90       "Humidity and temperature digital sensor" 
+J1         "T/H Sensor Socket"                       BottomLayer Connector_Tunic_6P 974.409       294.701       270      "Mini Tunic Connector with 6P"            
+D3         "ESD Suppressors"                         BottomLayer ESD_0402           826.772       319.307       360      "TVS Diode (Bi-directional)"              
+D2         "ESD Suppressors"                         BottomLayer ESD_0402           826.772       270.094       360      "TVS Diode (Bi-directional)"              
+D1         "ESD Suppressors"                         BottomLayer ESD_0402           826.772       220.882       360      "TVS Diode (Bi-directional)"              
+C4         "Multilayer Ceramic Capacitor"            TopLayer    CAPACITOR_0402     826.772       417.732       180      "Capacitor - 100nF [0402-6V3] (Ceramic)"  
+C3         "Multilayer Ceramic Capacitor"            TopLayer    CAPACITOR_0402     826.772       319.307       0        "Capacitor - 33pF [0402] (Ceramic)"       
+C2         "Multilayer Ceramic Capacitor"            TopLayer    CAPACITOR_0402     826.772       270.095       0        "Capacitor - 33pF [0402] (Ceramic)"       
+C1         "Multilayer Ceramic Capacitor"            TopLayer    CAPACITOR_0402     826.772       220.882       0        "Capacitor - 33pF [0402] (Ceramic)"       

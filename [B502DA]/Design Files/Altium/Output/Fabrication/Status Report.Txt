@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Project [B502DA.PrjPcb]
+   Generated File[Bill of Materials-B502DA.pdf]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 20:50:31 On 11.07.2020
