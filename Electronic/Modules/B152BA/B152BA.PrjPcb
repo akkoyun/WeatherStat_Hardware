@@ -1,0 +1,2160 @@
+﻿[Design]
+Version=1.0
+HierarchyMode=0
+ChannelRoomNamingStyle=0
+ReleasesFolder=
+ChannelDesignatorFormatString=$Component_$RoomName
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=0
+TemplateLocationPath=
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=1
+AllowPortNetNames=0
+AllowSheetEntryNetNames=1
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Sources
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=0
+PowerPortNamesTakePriority=0
+AutoSheetNumbering=1
+AutoCrossReferences=0
+NewIndexingOfSheetSymbols=0
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=0
+IsVirtualBomDocumentRemoved=0
+OutputPath=
+LogFolderPath=
+ManagedProjectGUID=
+IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Document1]
+DocumentPath=Schematics\Block_Diagram.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IZMSLTYO
+
+[Document2]
+DocumentPath=Schematics\RS485 Communication Layer.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WFXCADWD
+
+[Document3]
+DocumentPath=Schematics\3V3 LDO Regulator.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VCAOLGKI
+
+[Document4]
+DocumentPath=Schematics\MicroController.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PSNQLUUX
+
+[Document5]
+DocumentPath=Schematics\LED Inducator.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UIHPCVTV
+
+[Document6]
+DocumentPath=Schematics\SR Latch.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CSEBKXGJ
+
+[Document7]
+DocumentPath=B152BA.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DNARRIBY
+
+[Document8]
+DocumentPath=B152BA.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=Output Job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=B152BA.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RTMBLCPR
+
+[GeneratedDocument1]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.G1
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.G2
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Output\3D Body\B152BA-2.step
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Board_Shape.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Bottom_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Bottom_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Bottom_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Dimensions.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Drawing_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Drawing_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Drawing_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Drawing_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Drawing_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Drillmap_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Drillmap_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Drillmap_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Drillmap_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Drillmap_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Mechanical_9.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Mechanical_16.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Mechanical_40.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Plated_Drill_2_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Plated_Drill_2_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Plated_Drill_4_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Top_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Top_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_Top_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_uVias_Drill_1_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Output\Gerber Output\B152BA\B152BA-2_uVias_Drill_4_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.G1
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.G2
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Output\footprint\FootprintComparison\B152BA.html
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Output\PCB 3D Print\B152BA.jpg
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.REP
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Output\3D Body\B152BA.step
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Output\Gerber Output\B152BA\B152BA.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Board_Shape.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Bottom_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Bottom_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Bottom_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Dimensions.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Drawing_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Drawing_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Drawing_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Drawing_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Drawing_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Drillmap_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Drillmap_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Drillmap_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Drillmap_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Drillmap_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument132]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Mechanical_9.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument133]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument134]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument135]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Mechanical_16.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument136]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Mechanical_40.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument137]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument138]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument139]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument140]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument141]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Plated_Drill_2_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument142]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Plated_Drill_2_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument143]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Plated_Drill_4_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument144]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument145]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument146]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument147]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument148]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Top_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument149]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Top_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument150]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_Top_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument151]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_uVias_Drill_1_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument152]
+DocumentPath=Output\Gerber Output\B152BA\B152BA_uVias_Drill_4_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument153]
+DocumentPath=Output\BOM\Bill of Materials-B152BA.csv
+DItemRevisionGUID=
+
+[GeneratedDocument154]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument155]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument156]
+DocumentPath=Project Outputs for B152BA\Design Rule Check - B152BA-2.html
+DItemRevisionGUID=
+
+[GeneratedDocument157]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\board_shape\features
+DItemRevisionGUID=
+
+[GeneratedDocument158]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\bottom_3d_body\features
+DItemRevisionGUID=
+
+[GeneratedDocument159]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\bottom_assembly\features
+DItemRevisionGUID=
+
+[GeneratedDocument160]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\bottom_copper_plating\features
+DItemRevisionGUID=
+
+[GeneratedDocument161]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\bottom_courtyard\features
+DItemRevisionGUID=
+
+[GeneratedDocument162]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument163]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument164]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument165]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument166]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument167]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument168]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument169]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\dielectric_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument170]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\dimensions\features
+DItemRevisionGUID=
+
+[GeneratedDocument171]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\drill_drawing_top-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument172]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\drill_guide_top-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument173]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument174]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument175]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\int1\features
+DItemRevisionGUID=
+
+[GeneratedDocument176]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\int2\features
+DItemRevisionGUID=
+
+[GeneratedDocument177]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument178]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\rout\features
+DItemRevisionGUID=
+
+[GeneratedDocument179]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\top_3d_body\features
+DItemRevisionGUID=
+
+[GeneratedDocument180]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\top_assembly\features
+DItemRevisionGUID=
+
+[GeneratedDocument181]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\top_copper_plating\features
+DItemRevisionGUID=
+
+[GeneratedDocument182]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\top_courtyard\features
+DItemRevisionGUID=
+
+[GeneratedDocument183]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument184]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument185]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument186]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument187]
+DocumentPath=Output\Gerber Output\B152BA\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument188]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument189]
+DocumentPath=Output\Pick & Place Output\B152BA\Pick Place for B152BA-2.csv
+DItemRevisionGUID=
+
+[GeneratedDocument190]
+DocumentPath=Output\Pick & Place Output\B152BA\Pick Place for B152BA-2.txt
+DItemRevisionGUID=
+
+[GeneratedDocument191]
+DocumentPath=Output\Pick & Place Output\B152BA\Pick Place for B152BA.csv
+DItemRevisionGUID=
+
+[GeneratedDocument192]
+DocumentPath=Output\Pick & Place Output\B152BA\Pick Place for B152BA.txt
+DItemRevisionGUID=
+
+[GeneratedDocument193]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument194]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument195]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument196]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument197]
+DocumentPath=Output\Gerber Output\B152BA\odb\steps\pcb\layers\rout\tools
+DItemRevisionGUID=
+
+[Parameter1]
+Name=Address1_
+Value=Buyuk Kayacik Mah. 4. OSB
+
+[Parameter2]
+Name=Address2_
+Value=103. Cad. No : 12
+
+[Parameter3]
+Name=Address3_
+Value=Selcuklu / Konya
+
+[Parameter4]
+Name=Address4_
+Value=Türkiye
+
+[Parameter5]
+Name=Copyright_
+Value=Copyright 2022 STF Tarim (Commercial Secret)
+
+[Parameter6]
+Name=Customer_
+Value=STF Labs
+
+[Parameter7]
+Name=Engineer_
+Value=Gunce Akkoyun
+
+[Parameter8]
+Name=Git_Repo_Address_
+Value=www.github.com/akkoyun/B152BA
+
+[Parameter9]
+Name=Module_ID_
+Value=B152BA
+
+[Parameter10]
+Name=Organization_
+Value=STF Res-Dev
+
+[Parameter11]
+Name=Product_Desc_
+Value=P101EA
+
+[Parameter12]
+Name=Product_ID_
+Value=P101EA
+
+[Parameter13]
+Name=Revision_
+Value=00.00.01
+
+[Parameter14]
+Name=Version_
+Value=R1
+
+[Configuration1]
+Name=Sources
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=EDIF
+OutputName3=EDIF for PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MultiWire
+OutputName7=MultiWire
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Pcad
+OutputName10=Pcad for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=SIMetrixNetlist
+OutputName21=SIMetrix
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SIMPLISNetlist
+OutputName22=SIMPLIS
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=XSpiceNetlist
+OutputName23=Mixed Sim Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Composite
+OutputName1=Composite Drawing
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=PCB 3D Print
+OutputName2=PCB 3D Print
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=PCB 3D Video
+OutputName3=PCB 3D Video
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=PCB Print
+OutputName4=PCB Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=PCBDrawing
+OutputName5=Draftsman
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=PCBLIB Print
+OutputName6=PCBLIB Prints
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=PDF3D
+OutputName7=PDF3D
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=PDF3D MBA
+OutputName8=PDF3D MBA
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Report Print
+OutputName9=Report Prints
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Schematic Print
+OutputName10=Schematic Prints
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=SimView Print
+OutputName11=SimView Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Harness Layout Drawing Print
+OutputName12=Harness Layout Drawing Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Harness Wiring Diagram Print
+OutputName13=Harness Wiring Diagram Prints
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembly
+OutputName1=Assembly Drawings
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Board Stack Report
+OutputName1=Report Board Stack
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=CompositeDrill
+OutputName2=Composite Drill Drawing
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Drill
+OutputName3=Drill Drawing/Guides
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Final
+OutputName4=Final Artwork Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Gerber
+OutputName5=Gerber Files
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=Gerber X2
+OutputName6=Gerber X2 Files
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=IPC2581
+OutputName7=IPC-2581 Files
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+OutputType8=Mask
+OutputName8=Solder/Paste Mask Prints
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=NC Drill
+OutputName9=NC Drill Files
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=ODB
+OutputName10=ODB++ Files
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+OutputType11=Plane
+OutputName11=Power-Plane Prints
+OutputDocumentPath11=
+OutputVariantName11=[No Variations]
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Test Points
+OutputName12=Test Point Report
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=BOM_ReportCompare
+OutputName2=BOM Compare
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=ComponentCrossReference
+OutputName3=Component Cross Reference Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Export Comments
+OutputName4=Export Comments
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=ReportHierarchy
+OutputName5=Report Project Hierarchy
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=Script
+OutputName6=Script Output
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=SimpleBOM
+OutputName7=Simple BOM
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+OutputType8=SinglePinNetReporter
+OutputName8=Report Single Pin Nets
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+OutputType9=Project History
+OutputName9=Project History
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Text Print
+OutputName2=Text Print
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Text Print
+OutputName3=Text Print
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Text Print
+OutputName4=Text Print
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Text Print
+OutputName5=Text Print
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Text Print
+OutputName6=Text Print
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Text Print
+OutputName7=Text Print
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Text Print
+OutputName8=Text Print
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Text Print
+OutputName9=Text Print
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Text Print
+OutputName10=Text Print
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Text Print
+OutputName11=Text Print
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Text Print
+OutputName12=Text Print
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Text Print
+OutputName13=Text Print
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=Text Print
+OutputName14=Text Print
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=Text Print
+OutputName15=Text Print
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType16=Text Print
+OutputName16=Text Print
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType17=Text Print
+OutputName17=Text Print
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_Violations
+OutputName1=BOM Checks Report
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=Component states check
+OutputName2=Server's components states check
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=Configuration compliance
+OutputName3=Environment configuration compliance check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=Design Rules Check
+OutputName4=Design Rules Check
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Differences Report
+OutputName5=Differences Report
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Electrical Rules Check
+OutputName6=Electrical Rules Check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Footprint Comparison Report
+OutputName7=Footprint Comparison Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=ExportIDF
+OutputName3=Export IDF
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportPARASOLID
+OutputName4=Export PARASOLID
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=ExportSTEP
+OutputName5=Export STEP
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportVRML
+OutputName6=Export VRML
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=MBAExportPARASOLID
+OutputName7=Export PARASOLID
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=MBAExportSTEP
+OutputName8=Export STEP
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=Save As/Export PCB
+OutputName9=Save As/Export PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Save As/Export Schematic
+OutputName10=Save As/Export Schematic
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=Specctra Design PCB
+OutputName11=Specctra Design PCB
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Web ReviewOutputName
+OutputName12=Web Review Data
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
+Type118=1
+Type119=1
+Type120=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=0
+Type8=1
+Type9=1
+Type10=1
+Type11=2
+Type12=2
+Type13=2
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
+Type24=1
+Type25=2
+Type26=0
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=0
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
+Type50=2
+Type51=0
+Type52=0
+Type53=1
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=2
+Type60=0
+Type61=0
+Type62=0
+Type63=0
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=0
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=0
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+AlternateItemFail=3
+Type122=2
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNWNNNWW
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNN
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NWEENEENEEENNEENN
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
+L11=NNENNNNEEENWNENWN
+L12=WWWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NWEENEEEENEWNEEWW
+L15=NNENNNNEEENWNENWW
+L16=WWWWNWWNWWWNWWWNW
+L17=WNNNNNNNWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+
+[PrjClassGen]
+CompClassManualEnabled=0
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=1
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=1
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=B152_Library.SchLib
+ComponentDesignItemID0=Reed Relay
+ComponentSymbolReference0=Reed Relay
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=1
+DoModels=1
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=ComponentLink1Description
+ParameterUpdate2=1
+ParameterName3=ComponentLink1URL
+ParameterUpdate3=1
+ParameterName4=ComponentLink2Description
+ParameterUpdate4=1
+ParameterName5=ComponentLink2URL
+ParameterUpdate5=1
+ParameterName6=Description
+ParameterUpdate6=1
+ParameterName7=Height
+ParameterUpdate7=1
+ParameterName8=Library Reference
+ParameterUpdate8=1
+ParameterName9=Manufacturer Name
+ParameterUpdate9=1
+ParameterName10=Manufacturer Part Number
+ParameterUpdate10=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+
+[NetInfos]
+Net1=NetName=3V3|NetColor=clRed
+Net2=NetName=5V|NetColor=clRed
+Net3=NetName=BLUE|NetColor=clBlue
+Net4=NetName=BLUE_|NetColor=clBlue
+Net5=NetName=BLUE_CATHODE|NetColor=clBlue
+Net6=NetName=C\o\u\n\t\e\r\_\S\i\g\n\a\l\|NetColor=clBlue
+Net7=NetName=C\o\u\n\t\e\r\_\S\i\g\n\a\l\_\B\a\s\e\|NetColor=clBlue
+Net8=NetName=Counter_Signal|NetColor=clBlue
+Net9=NetName=Counter_Signal_Base|NetColor=clBlue
+Net10=NetName=Enable|NetColor=clBlue
+Net11=NetName=GND|NetColor=$00909090
+Net12=NetName=GREEN|NetColor=clBlue
+Net13=NetName=GREEN_|NetColor=clBlue
+Net14=NetName=GREEN_CATHODE|NetColor=clBlue
+Net15=NetName=MISO|NetColor=clGreen
+Net16=NetName=MOSI|NetColor=clGreen
+Net17=NetName=NetD?_2|NetColor=$000083FD
+Net18=NetName=NetD1_2|NetColor=$000083FD
+Net19=NetName=NetD2_2|NetColor=$000083FD
+Net20=NetName=NetR?_1|NetColor=$000083FD
+Net21=NetName=NetR2_1|NetColor=$000083FD
+Net22=NetName=NetR5_2|NetColor=$000083FD
+Net23=NetName=NetU?_1|NetColor=clGreen
+Net24=NetName=NetU?_4|NetColor=clGreen
+Net25=NetName=NetU1_12|NetColor=clBlue
+Net26=NetName=NetU1_13|NetColor=clBlue
+Net27=NetName=NetU1_14|NetColor=clBlue
+Net28=NetName=NetU1_23|NetColor=clBlue
+Net29=NetName=NetU1_30|NetColor=clGreen
+Net30=NetName=NetU1_31|NetColor=clGreen
+Net31=NetName=NetU1_32|NetColor=$00CC0000
+Net32=NetName=R\E\S\E\T\|NetColor=clGreen
+Net33=NetName=RED|NetColor=clBlue
+Net34=NetName=RED_|NetColor=clBlue
+Net35=NetName=RED_CATHODE|NetColor=clBlue
+Net36=NetName=RS485_A|NetColor=$000083FD
+Net37=NetName=RS485_A_1|NetColor=$000099FF
+Net38=NetName=RS485_A_IC|NetColor=$000083FD
+Net39=NetName=RS485_B|NetColor=$000083FD
+Net40=NetName=RS485_B_1|NetColor=$000099FF
+Net41=NetName=RS485_B_IC|NetColor=$000083FD
+Net42=NetName=RS485_DIR|NetColor=$00CC0000
+Net43=NetName=RS485_SENSE_1|NetColor=clBlue
+Net44=NetName=RX|NetColor=clGreen
+Net45=NetName=SCK|NetColor=clGreen
+Net46=NetName=SCL|NetColor=clGreen
+Net47=NetName=SDA|NetColor=clGreen
+Net48=NetName=SR_Reset|NetColor=clBlue
+Net49=NetName=SR_Set|NetColor=clBlue
+Net50=NetName=TX|NetColor=clGreen
+Net51=NetName=UART_RX|NetColor=clGreen
+Net52=NetName=UART_TX|NetColor=clGreen
+Net53=NetName=VCC|NetColor=$00220EEE
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+

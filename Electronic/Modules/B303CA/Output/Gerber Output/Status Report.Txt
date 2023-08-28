@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [B303CA.PcbDoc]
+   Generated File[B303CA.TXT]
+   Generated File[B303CA.LDP]
+   Generated File[B303CA.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:33:01 On 15.06.2023

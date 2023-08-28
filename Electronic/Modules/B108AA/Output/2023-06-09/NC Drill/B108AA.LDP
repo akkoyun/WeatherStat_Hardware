@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\akkoyun\Documents\Electronic_Modules\Modules [B]\B1XX - IoT Segment\B108 - WeatherStat V4 IoT Module\B108AA\B108AA.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=b108aa-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=b108aa-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

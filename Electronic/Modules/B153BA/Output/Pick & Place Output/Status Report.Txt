@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:52:39 On 5.06.2023
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [B153BA.PcbDoc]
+   Generated File[Pick Place for B153BA.txt]
+   Generated File[Pick Place for B153BA.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 12:52:40 On 5.06.2023

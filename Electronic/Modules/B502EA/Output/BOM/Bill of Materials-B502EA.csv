@@ -1,0 +1,5 @@
+Designator,Quantity,Description,Footprint,Case,Manufacturer _Part_Number,Manufacturer Name,Manufacturer Part Number,Manufacturer_Name,Manufacturer_Part_Number
+
+"C1","1","Capacitor - 100nF [0402-6V3] (Ceramic)","CAPACITOR_0402","0402","","AVX","04026D104KAT4A","",""
+"J1","1","Mini Tunic Connector with 4P","Connector_Tunic 4P","SMD","","Molex","53261-0471","",""
+"U1","1","GEN 2 HUMIDITY SENSOR","HDC2010","DSBGA-6","","Texas Instruments","HDC2010YPAR","",""

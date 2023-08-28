@@ -1,0 +1,21 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 1 0 0 270 N SW1 PTS526SK08SMTR2LFS ;0=1,1=0.0315
+PRP Case 'SMD'
+PRP Contact_Form 'SPST'
+PRP Current_Rating '50 mA'
+PRP Manufacturer_Name 'C&K Switches'
+PRP Manufacturer_Part_Number 'PTS526SK08SMTR2LFS'
+PRP Product_Type 'Tactile Switches'
+PRP RoHS 'Yes'
+PRP Voltage_Rating '12 VDC'
+TOP 0 -0.0728346 0.1181102 90 N 1 1 1
+TOP 1 -0.0728346 -0.1181102 90 N 1 2 1
+TOP 2 0.0728346 0.1181102 90 N 2 2 2
+TOP 3 0.0728346 -0.1181102 90 N 2 3 2
+#
