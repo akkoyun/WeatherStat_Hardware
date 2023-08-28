@@ -1,0 +1,328 @@
+*************************************************************
+FileName = B152AA.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Overlay
+      File : B152AA.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Dimensions
+      File : B152AA.GM8
+
+    Adding Layer      : Dimensions
+
+
+Used DCodes :
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : B152AA.GM6
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : B152AA.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Int2
+      File : B152AA.G2
+
+    Adding Layer      : Int2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : B152AA.GM4
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : B152AA.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : B152AA.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : B152AA.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : B152AA.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : B152AA.GM5
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : B152AA.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : B152AA.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : B152AA.GM2
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : B152AA.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : B152AA.GM3
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : B152AA.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Int1
+      File : B152AA.G1
+
+    Adding Layer      : Int1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : B152AA.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Board Shape
+      File : B152AA.GM1
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : B152AA.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : B152AA.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D45
+*************************************************************
+
